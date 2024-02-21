@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=st-wasi&label=Profile%20views&color=0e75b6&style=flat" alt="st-wasi" /> </p>
 
-- 🌱 I’m currently learning **React Native, Flutter**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Android, MERN**
 
