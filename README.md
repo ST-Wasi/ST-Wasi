@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NEST JS, ONYX**
 
-- 💬 Ask me about **MongoDB, Express JS, React JS, Node JS**
+- 💬 Ask me about **MongoDB, Express JS, React JS, Node JS, Nest JS**
 
 - 📫 How to reach me **wasisde@duck.com**
 
