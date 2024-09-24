@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wasi Uddin</h1>
+<h1 align="center">Hi 👋, I'm Wasi</h1>
 <h3 align="center">Software Developer | Full Stack Engineer | Software Engineer | Frontend Developer | Backend Developer</h3>
 
 # 💫 About Me:
